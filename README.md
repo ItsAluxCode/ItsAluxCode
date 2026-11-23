@@ -3,7 +3,7 @@ Im Renzo, nice to meet u ;)
 ### Who i am?
 I'm just a peruvian guy seeking the best version of my self.
 ### What's my tech stack?
-Until now, C++ was my main programming language, but i'm now in the journey of enhance my knowledge and explore new areas!
+Until now, C++ was my main programming language, but i've been in the journey of enhance my knowledge and explore new areas!
 ### Fun fact
 I like ducks 🦆.
 
